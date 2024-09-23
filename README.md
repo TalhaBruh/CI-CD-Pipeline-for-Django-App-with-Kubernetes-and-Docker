@@ -103,3 +103,7 @@ A Celery task runs every 4 minutes to delete data from the database that is olde
 - Kubernetes for orchestration.
 - Sentry for error tracking.
 - Slack for notifications.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
